@@ -126,7 +126,7 @@ function adjust_textarea(h) {
 }
 </style>
 </head>
-<form class="form-style-7">
+<form class="form-style-7" action="/confirm" method="post">
 <ul>
 <li>
     <label for="name">Patient Name</label>
